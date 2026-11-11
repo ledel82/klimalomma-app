@@ -1,6 +1,6 @@
 {
-  "runtime": "0.2",
-  "versionCode": 6,
-  "apk": "https://expo.dev/artifacts/eas/we5LEWrfRYJGeYWy6Roc7i1iIGzALkCtvW0zXTIw8q8.apk",
-  "tekst": "Swema live og PDF i Balansering"
+  "runtime": "0.3",
+  "versionCode": 8,
+  "apk": "https://expo.dev/artifacts/eas/XRgnHGN8CbiZ5WoYRml2zTgxGevUrCj4fQBOzr2oSgE.apk",
+  "tekst": "Bygg ny APK: oppdater siste.json i klimalomma-app automatisk når Expo-bygget er ferdig"
 }
